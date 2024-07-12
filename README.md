@@ -2,7 +2,7 @@
 - 👀 I’m interested in cryptocurrency
 - 🌱 I’m currently learning cryptocurrency ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... @boomse7 KAEL#2724
+- 📫 How to reach me ... @boomse7 KAEL#2724 @boomhsn
 
 <!---
 MichealHtin/MichealHtin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
